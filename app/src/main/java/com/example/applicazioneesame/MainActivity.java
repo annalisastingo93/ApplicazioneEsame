@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-// Matteo was here
 public class MainActivity extends AppCompatActivity {
 
 
